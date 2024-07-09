@@ -5,16 +5,15 @@ let mytoken = 'kourinaz'; //可以随便取，或者uuid生成，https://1024too
 let BotToken =''; //可以为空，或者@BotFather中输入/start，/newbot，并关注机器人
 let ChatID =''; //可以为空，或者@userinfobot中获取，/start
 let TG = 0; //小白勿动， 开发者专用，1 为推送所有的访问信息，0 为不推送订阅转换后端的访问信息与异常访问
-let FileName = 'CF-Workers-SUB';
+let FileName = 'Shadow';
 let SUBUpdateTime = 6; //自定义订阅更新时间，单位小时
 let total = 99;//TB
 let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-ss://YWVzLTEyOC1nY206TlJzUjg4N1gxZ2U1ZnpCZU5XTm1IVkR1cXhrSkdZWjMwQzlkWkhPUVI0RXM=@gdcm-06080132.gorelay.xyz:17027#%E6%B8%AF%E5%93%A5%20SS-clone
 ss://YWVzLTEyOC1nY206TlJzUjg4N1gxZ2U1ZnpCZU5XTm1IVkR1cXhrSkdZWjMwQzlkWkhPUVI0RXM=@183.236.51.57:25178#%E6%B8%AF%E5%93%A5%20SS
-vless://d1ba6b86-8e35-417d-f2d5-ae52a9653009@47.57.237.149:6545?encryption=none&security=tls&type=ws&host=hkbn.kourin.top&path=%2Fhk#HKBN%20CF%20%E4%BC%98%E9%80%89
+vless://d1ba6b86-8e35-417d-f2d5-ae52a9653009@211.72.156.20:23555?encryption=none&security=tls&type=ws&host=hkbn.kourin.top&path=%2Fhk#HKBN%20CF%20%E4%BC%98%E9%80%89
 vless://d1ba6b86-8e35-417d-f2d5-ae52a9653009@hkbn.kourin.top:443?encryption=none&security=tls&type=ws&path=%2Fhk#HKBN%20CF
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1NTFFNFx1NTFGMFx1NTdDRUNGIiwNCiAgImFkZCI6ICIxMDQuMTYuMTcuMTk1IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjc0OGQxY2E3LTg3YWEtNGUyNi1lZDhlLWE3ZGExNTA1MGQyZiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZ2cua291cmluLnRvcCIsDQogICJwYXRoIjogIi9jZiIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1NzUzMlx1OUFBOFx1NjU4N1x1NjYyNVx1NURERCIsDQogICJhZGQiOiAiMTMyLjE0NS45MS4xNzEiLA0KICAicG9ydCI6ICI4NDQzIiwNCiAgImlkIjogImE5ZDVkYjY5LWM2NDAtNDkxYS04ZDA5LWU0OGE4YWU2ODZiYSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiY2Mua291cmluLnRvcCIsDQogICJwYXRoIjogIi9jYyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
