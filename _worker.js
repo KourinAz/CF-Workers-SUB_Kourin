@@ -19,7 +19,9 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1NTFFNFx1NTFGMFx1NTdDRUNGIiwNCiAgImFk
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1NzUzMlx1OUFBOFx1NjU4N1x1NjYyNVx1NURERCIsDQogICJhZGQiOiAiMTYyLjE1OS4xMzcuMjM3IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImE5ZDVkYjY5LWM2NDAtNDkxYS04ZDA5LWU0OGE4YWU2ODZiYSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiY2Mua291cmluLnRvcCIsDQogICJwYXRoIjogIi9jYyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1NzUzMlx1OUFBOFx1NjU4N1x1NEUxQ1x1NEVBQyIsDQogICJhZGQiOiAiMTYyLjE1OS4xMzcuMjM3IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjA2NjQ2M2ZmLWQ1MjgtNDJlYy05MzBhLTUwZGZhY2QzZTA2ZCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidG9reW8ua291cmluLnRvcCIsDQogICJwYXRoIjogIi9kaiIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 vless://d1ba6b86-8e35-417d-f2d5-ae52a9653009@35.229.179.98:25775?encryption=none&security=tls&type=ws&host=hkbn.kourin.top&path=%2Fhk#HKBN%20CF%20%E4%BC%98%E9%80%892
-vless://d1ba6b86-8e35-417d-f2d5-ae52a9653009@125.227.213.229:23555?encryption=none&security=tls&type=ws&host=hkbn.kourin.top&path=%2Fhk#HKBN%20CF%20%E4%BC%98%E9%80%893
+vless://d1ba6b86-8e35-417d-f2d5-ae52a9653009@35.201.236.40:10501?encryption=none&security=tls&type=ws&host=hkbn.kourin.top&path=%2Fhk#HKBN%20CF%20%E4%BC%98%E9%80%893
+vless://d1ba6b86-8e35-417d-f2d5-ae52a9653009@47.76.192.24:2053?encryption=none&security=tls&type=ws&host=hkbn.kourin.top&path=%2Fhk#HKBN%202053
+vless://d1ba6b86-8e35-417d-f2d5-ae52a9653009@47.76.146.1:2083?encryption=none&security=tls&type=ws&host=hkbn.kourin.top&path=%2Fhk#HKBN%202053-clone
 `
 
 let urls = [];
