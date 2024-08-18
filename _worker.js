@@ -12,11 +12,8 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
+vless://85add957-48c2-4db4-d54c-abaef3be0b8b@hkbn.kourin.top:55880?encryption=none&security=none&type=ws&path=%2Fgg#HKBN
 ss://YWVzLTEyOC1nY206dWVFM0w2b3BkUA==@183.236.51.57:26986#TW%20SS
-vless://2e25e126-7d60-4795-cf1f-fb5c0363b8c0@211.22.243.164:11772?encryption=none&security=tls&type=ws&host=tw.kourin.top&path=%2Ftw#TW-%E4%BC%98%E9%80%891
-vless://2e25e126-7d60-4795-cf1f-fb5c0363b8c0@211.75.243.91:16764?encryption=none&security=tls&type=ws&host=tw.kourin.top&path=%2Ftw#TW-%E4%BC%98%E9%80%892
-vless://2e25e126-7d60-4795-cf1f-fb5c0363b8c0@103.137.63.37:46832?encryption=none&security=tls&type=ws&host=tw.kourin.top&path=%2Ftw#TW-%E4%BC%98%E9%80%893
-vless://2e25e126-7d60-4795-cf1f-fb5c0363b8c0@38.147.188.171:8005?encryption=none&security=tls&type=ws&host=tw.kourin.top&path=%2Ftw#TW-%E4%BC%98%E9%80%894
 ss://YWVzLTEyOC1nY206TlJzUjg4N1gxZ2U1ZnpCZU5XTm1IVkR1cXhrSkdZWjMwQzlkWkhPUVI0RXM=@183.236.51.57:25178#%E6%B8%AF%E5%93%A5%20SS
 vless://85add957-48c2-4db4-d54c-abaef3be0b8b@hkbn.kourin.top:55880?encryption=none&security=none&type=ws&path=%2Fgg#HKBN
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1NzUzMlx1OUFBOFx1NjU4N1x1NEUxQ1x1NEVBQyIsDQogICJhZGQiOiAiMTYyLjE1OS4xMzcuMjM3IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjA2NjQ2M2ZmLWQ1MjgtNDJlYy05MzBhLTUwZGZhY2QzZTA2ZCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidG9reW8ua291cmluLnRvcCIsDQogICJwYXRoIjogIi9kaiIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
