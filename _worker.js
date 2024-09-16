@@ -23,7 +23,7 @@ vless://b54c15fb-77b9-4b81-811c-9475e10f3d6e@162.159.137.237:443?encryption=none
 
 let urls = [];
 let subconverter = "sub.kourin.top"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
-let subconfig = "https://raw.githubusercontent.com/KourinAz/subconverter/master/base/config/ACL4SSR_Online_Full.ini"; //订阅配置文件
+let subconfig = "https://raw.githubusercontent.com/KourinAz/subconverter/master/base/config/ACL4SSR_Online_Mini_NoAuto.ini"; //订阅配置文件
 let subProtocol = 'https';
 
 export default {
