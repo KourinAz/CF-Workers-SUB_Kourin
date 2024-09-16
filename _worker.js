@@ -14,7 +14,7 @@ let cacheTTL = 24 ;//小时，缓存时长
 
 //节点链接 + 订阅链接
 let MainData = `
-ss://YWVzLTEyOC1nY206TlJzUjg4N1gxZ2U1ZnpCZU5XTm1IVkR1cXhrSkdZWjMwQzlkWkhPUVI0RXM=@tunnel-07312159.520300.xyz:17027#%E6%B8%AF%E5%93%A5%20SS
+ss://YWVzLTEyOC1nY206TlJzUjg4N1gxZ2U1ZnpCZU5XTm1IVkR1cXhrSkdZWjMwQzlkWkhPUVI0RXM=@tunnel-07312159.520300.xyz:17027#%E6%B8%AF%E5%93%A5SS
 vless://ef7be982-7a4f-4856-9b9c-01872875961b@hkbn.kourin.top:55880?encryption=none&security=none&type=ws&path=%2Fgg#hkbn
 vless://d7e13032-3f98-4f31-eb28-34e6c783a1b8@104.19.109.206:443?encryption=none&security=tls&type=ws&host=gg.kourin.top&path=%2Fcf#%E5%87%A4%E5%87%B0%E5%9F%8ECF
 vless://cbb3b51c-3215-4b96-ce9e-cb9e5eb3e6e4@162.159.137.237:443?encryption=none&security=tls&type=ws&host=cc.kourin.top&path=%2Fcc#%E6%98%A5%E5%B7%9D
